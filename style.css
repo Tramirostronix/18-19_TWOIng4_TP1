@@ -1,0 +1,159 @@
+
+li {
+	display: inline;
+	margin: 0; 
+	padding: 0; 
+	text-align: center; 
+	}
+
+li a {
+	padding: 4px 20px ;
+  background: #3a758d ;
+  color: #fff ;
+  border: 2px groove grey ;
+  font: 1em;
+  line-height: 1em ;
+  text-align: center ;
+ text-decoration: none; 
+}
+
+#ensemble{
+	background-image:url(header.jpg);
+	background-repeat: no-repeat;
+	background-position: top; 
+	background-size: 100%; 
+	display: block; 
+
+
+}
+h1{
+	font-size: 4.5rem;
+	color: purple; 
+	font-weight: bold; 
+	text-align: center;
+	margin: 0; 
+	padding: 0;   
+}
+
+#description {
+	display: block;
+	text-align: center; 
+	color : pink;
+	font-weight: bold;
+	font-style: italic; 
+	font-size: 2.3rem;
+
+}
+
+#introduction {
+	text-align: center;
+	color : black;
+	font-size: 1.2rem;
+	font-weight: bold;  
+	background-image: url(mots.png);
+	background-repeat: no-repeat;
+	background-size: 100%
+	margin: auto;
+	padding: auto; 
+
+}
+
+.avatar {
+
+	width : 25.0rem;
+	text-align: center;
+}
+
+
+
+#introduction {
+	text-align: center; 
+	font-size: 1.5rem; 
+	font-weight: : bold;
+	
+
+}
+
+
+.menu {
+
+	text-align: center; 
+	font-size: 2.0rem; 
+	 
+}
+
+#experiences {
+	text-align: center; 
+	font-size: 1.5rem;
+	background-image: url(altcoin.jpg); 
+	background-repeat: no-repeat;
+	background-size: 100%; 
+}
+
+.poste {
+	color: purple; 
+	font-weight: bold;
+	font-size: 2.0rem;  
+}
+
+.entreprise {
+	color : purple;
+	font-size: 1.8rem; 
+}
+
+
+.date {
+	font-weight: bold; 
+	font-size: 1.3rem; 
+}
+
+.lieu {
+	color: grey; 
+	font-size: 1.3rem;
+	font-weight: bold; 
+}
+
+#formations {
+	text-align: center; 
+	font-size: 1.5rem;
+	background-image: url(formation.png);
+	background-repeat: no-repeat;
+	background-size: 100%;  
+}
+
+
+#contacts {
+	text-align: center;
+	 background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
+
+
+}
+
+#contacts img {
+	border: groove 5px black; 
+}
+
+h2{
+	font-size: 50px; 
+	font-weight: bold; 
+}
+
+#formulaire {
+	text-align: center; 
+	font-size: 2.2rem; 
+	 background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); 
+ 
+ 
+}
+
+
+input {
+	font-size: 2.2rem;  
+	margin: 10px;  
+}
+
+textarea {
+	font-size: 2.2rem; 
+}
